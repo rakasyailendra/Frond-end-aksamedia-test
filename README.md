@@ -2,7 +2,7 @@
 
 Ini adalah proyek dashboard untuk manajemen pengguna yang dibuat sebagai bagian dari tes seleksi **Frontend Developer Intern**. Proyek ini menampilkan implementasi operasi CRUD, sistem autentikasi, dan berbagai fitur interaktif lainnya menggunakan React dan Tailwind CSS, tanpa menggunakan library UI eksternal.
 
-**[ Lihat Live Demo ](https://frond-end-aksamedia-test.vercel.app/login)** 
+**[ Lihat Live Demo ](https://frond-end-aksamedia-test.vercel.app)** 
 
 ---
 
